@@ -1,0 +1,4 @@
+terraform.tfstate*
+.terraform*
+notes.txt
+variable.tf_original_bkup

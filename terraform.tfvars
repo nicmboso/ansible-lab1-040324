@@ -1,0 +1,7 @@
+vpc_cidr            = "10.0.0.0/16"
+public_subnet1_cidr = "10.0.1.0/24"
+az1                 = "eu-west-1a"
+path_to_keypair     = "~/Training/Git/keypairs/nic-key.pub"
+# path_to_keypair     = "~/keypairs/eu2acp.pub"
+red-hat = "ami-08e592fbb0f535224"
+ubuntu  = "ami-0d940f23d527c3ab1"
